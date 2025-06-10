@@ -1,18 +1,20 @@
-# 🎈 Blank app template
+# 📈 AI Trading Dashboard
 
-A simple Streamlit app template for you to modify!
+Contoh aplikasi Streamlit untuk memantau dagangan saham. Aplikasi ini
+merangkumi ciri-ciri asas seperti pengimbasan pasaran, pengurusan posisi,
+analisis teknikal, analisis sentimen dan laporan prestasi.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
-### How to run it on your own machine
+### Cara jalankan di mesin anda
 
-1. Install the requirements
+1. Pasang keperluan
 
    ```
    $ pip install -r requirements.txt
    ```
 
-2. Run the app
+2. Jalankan aplikasi
 
    ```
    $ streamlit run streamlit_app.py
